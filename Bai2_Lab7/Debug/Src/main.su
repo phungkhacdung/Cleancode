@@ -1,0 +1,7 @@
+main.c:86:5:main	8	static
+main.c:103:1:AppInitCommon	8	static
+main.c:122:8:Check_Tim_Press	8	static
+main.c:146:8:Send_NumberPress	16	static
+main.c:178:8:USART2_Init	32	static
+main.c:221:8:TIM2_Configuration	48	static
+main.c:276:8:TIM2_IRQHandler	8	static
