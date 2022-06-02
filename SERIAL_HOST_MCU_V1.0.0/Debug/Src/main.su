@@ -1,0 +1,11 @@
+main.c:98:5:main	24	static
+main.c:154:6:USART2_Init	40	static
+main.c:214:6:USART2_IRQHandler	16	static
+main.c:230:6:delay_ms	24	static
+main.c:238:9:PollRxBuff	16	static
+main.c:310:6:Serial_Init2	8	static
+main.c:320:6:UartCommandProcess1	40	static
+main.c:412:7:Task_multiSensorScan	8	static
+main.c:425:6:MultiSensorScan	8	static
+main.c:448:6:Send_Tem_Hum	32	static
+main.c:465:6:Send_Light	48	static
