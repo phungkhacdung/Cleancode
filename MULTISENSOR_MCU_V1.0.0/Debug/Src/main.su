@@ -1,0 +1,17 @@
+main.c:111:5:main	16	static
+main.c:137:6:TemHumSensor_Init	32	static
+main.c:178:6:i2c_start	8	static
+main.c:193:6:i2c_address_direction	16	static
+main.c:214:6:i2c_transmit	16	static
+main.c:226:6:i2c_stop	8	static
+main.c:237:9:i2c_receive_ack	8	static
+main.c:249:9:i2c_receive_nack	8	static
+main.c:265:9:TemHumSensor_readRegister	32	static
+main.c:308:9:TemHumSensor_getTemperature	16	static
+main.c:318:9:TemHumSensor_getHumidity	16	static
+main.c:328:6:processGetValueSensor	24	static
+main.c:368:6:delay_ms	24	static
+main.c:379:6:KalmanFilterInit_Temp	24	static
+main.c:390:6:KalmanFilterInit_Humi	24	static
+main.c:400:7:KalmanFilter_updateEstimate_temp	32	static
+main.c:414:7:KalmanFilter_updateEstimate_humi	32	static
