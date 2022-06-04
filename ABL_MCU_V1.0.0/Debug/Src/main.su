@@ -1,0 +1,12 @@
+main.c:57:6:delay_ms	24	static
+main.c:66:5:main	8	static
+main.c:84:6:LightSensor_AdcInit	56	static
+main.c:135:6:LedControl_TimerOCInit	48	static
+main.c:188:6:USART2_Init	32	static
+main.c:229:6:MultiSensorScan	8	static
+main.c:253:1:LightSensor_AdcPollingRead	16	static
+main.c:268:6:Cover_Temperature	16	static
+main.c:289:6:LedControl_TimerOCSetPwm	16	static
+main.c:303:10:Light_filter	24	static
+main.c:318:9:ABL_StepBrightness	24	static
+main.c:328:6:ABL_Process	16	static
