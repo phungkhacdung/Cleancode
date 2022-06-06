@@ -1,0 +1,14 @@
+main.c:103:5:main	16	static
+main.c:145:6:AppInitCommon	16	static
+main.c:170:13:AppStateManager	16	static
+main.c:191:13:SetStateApp	16	static
+main.c:196:20:GetStateApp	4	static
+main.c:201:6:LoadConfiguration	16	static
+main.c:215:6:DeviceStateMachine	24	static
+main.c:313:6:LedCmdSetState	32	static
+main.c:323:6:BuzzerCmdSetState	24	static
+main.c:336:6:LcdCmdSetState	24	static
+main.c:350:6:ButtonSetState	16	static
+main.c:401:7:Task_multiSensorScan	16	static
+main.c:426:6:MultiSensorScan	8	static
+main.c:450:6:change_led_green	8	static
